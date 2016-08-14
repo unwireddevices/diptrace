@@ -35,7 +35,6 @@ ADuM1251</td>
 <td>Antenna</td>
 <td>2.4GHz meander PCB antenna (see TI AN058)<br>
 868MHz helical PCB antenna (see TI AN058)<br>
-U.FL-R-SMT<br>
 Pulse W3008<br>
 Amotech 25-4102920-AMT02 (GPS/Glonass)<br>
 Amotech AMMAP003 GSM antenna (900/1800/2100 MHz)</td>
@@ -83,7 +82,9 @@ Wago 235-102</td>
 Connfly DS1069-2R<br>
 Connfly DS1069-3<br>
 Connfly DS1138-02-06 SIM card holder<br>
-Hanrun HR911105 Ethernet connector</td>
+Hanrun HR911105 Ethernet connector<br>
+U.FL-R-SMT
+</td>
 </tr>
 <tr>
 <td>Crystal</td>
@@ -136,6 +137,9 @@ Navia SL3333</td>
 <td>Inductors</td>
 <td>Sumida CDRH127<br>
 Sumida CDRH8D43<br>
+Epcos SDR0302<br>
+Epcos SDR0403<br>
+Epcos SDR0604<br>
 Epcos SDR1006<br>
 SH6028</td>
 </tr>
@@ -155,9 +159,12 @@ Solder jumper 3-pin</td>
 </tr>
 <tr>
 <td>LED</td>
-<td>0605 dual color<br>
+<td>
 0603<br>
+0605 dual color<br>
 0805</td>
+1206 bottom emitting</td>
+3528</td>
 </tr>
 <tr>
 <td>Linear</td>
