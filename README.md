@@ -42,7 +42,7 @@ Amotech AMMAP003 GSM antenna (900/1800/2100 MHz)</td>
 <tr>
 <td>Arduino</td>
 <td>Arduino Micro board<br>
-Arduino Uno board</td>
+Arduino Uno R3 board</td>
 </tr>
 <tr>
 <td>Audio</td>
