@@ -1,5 +1,5 @@
-# Diptrace
-Various DipTrace components libraries.
+# DipTrace
+Various <a href="http://diptrace.com/">DipTrace</a> components libraries.
 
 Some components here are missed from DipTrace standard libraries (or at least were missed prior to DipTrace 3.0), some are awkwardly named in those libraries. Also, basic SMD footprints (resistors, capacitors, inductors) were optimized for reflow soldering — which means smaller pads and occupied PCB space — they are in SMD library.
 
