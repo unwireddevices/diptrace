@@ -1,11 +1,15 @@
 # Diptrace
 Various DipTrace components libraries.
 
+Some components here are missed from DipTrace standard libraries (or at least were missed prior to DipTrace 3.0), some are awkwardly named in those libraries. Also, basic SMD footprints (resistors, capacitors, inductors) were optimized for reflow soldering — which means smaller pads and occupied PCB space — they are in SMD library.
+
+Components provided without any warranty, althought most of them were used in real designs.
+
 <table>
 <tbody>
 <tr>
-<td>Название</td>
-<td>Содержимое</td>
+<td><b>Library</b></td>
+<td><b>Components</b></td>
 </tr>
 <tr>
 <td>Agilent</td>
@@ -29,8 +33,8 @@ ADuM1251</td>
 </tr>
 <tr>
 <td>Antenna</td>
-<td>2.4GHz meander PCB antenna
-868MHz helical PCB antenna
+<td>2.4GHz meander PCB antenna (see TI AN058)
+868MHz helical PCB antenna (see TI AN058)
 U.FL-R-SMT
 Pulse W3008
 GPS Ceramic Patch antenna
