@@ -88,11 +88,11 @@ U.FL-R-SMT
 </tr>
 <tr>
 <td>Crystal</td>
-<td>2012C2<br>
-3215C2<br>
-0532C4<br>
-2016C4<br>
-2520C4</td>
+<td>2012C2 (2.0×1.2 mm watch crystal)<br>
+3215C2  (3.2×1.5 mm watch crystal)<br>
+0532C4 (5.0×3.2 mm)<br>
+2016C4 (2.0×1.6 mm)<br>
+2520C4 (2.5×2.0 mm)</td>
 </tr>
 <tr>
 <td>Edison</td>
