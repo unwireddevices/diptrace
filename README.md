@@ -37,8 +37,8 @@ ADuM1251</td>
 868MHz helical PCB antenna (see TI AN058)<br>
 U.FL-R-SMT<br>
 Pulse W3008<br>
-GPS Ceramic Patch antenna<br>
-AMMSP003 GSM antenna</td>
+Amotech 25-4102920-AMT02 (GPS/Glonass)<br>
+Amotech AMMAP003 GSM antenna (900/1800/2100 MHz)</td>
 </tr>
 <tr>
 <td>Arduino</td>
