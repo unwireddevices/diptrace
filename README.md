@@ -145,7 +145,7 @@ SH6028</td>
 </tr>
 <tr>
 <td> IR</td>
-<td>IRL6372
+<td>IRL6372<br>
 IRF9358</td>
 </tr>
 <tr>
