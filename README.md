@@ -25,24 +25,24 @@ Components provided without any warranty, althought most of them were used in re
 </tr>
 <tr>
 <td>Analog Devices</td>
-<td>ADE7753
-ADE7757
-ADM2483
-ADuM1201
+<td>ADE7753<br>
+ADE7757<br>
+ADM2483<br>
+ADuM1201<br>
 ADuM1251</td>
 </tr>
 <tr>
 <td>Antenna</td>
-<td>2.4GHz meander PCB antenna (see TI AN058)
-868MHz helical PCB antenna (see TI AN058)
-U.FL-R-SMT
-Pulse W3008
-GPS Ceramic Patch antenna
+<td>2.4GHz meander PCB antenna (see TI AN058)<br>
+868MHz helical PCB antenna (see TI AN058)<br>
+U.FL-R-SMT<br>
+Pulse W3008<br>
+GPS Ceramic Patch antenna<br>
 AMMSP003 GSM antenna</td>
 </tr>
 <tr>
 <td>Arduino</td>
-<td>Arduino Micro board
+<td>Arduino Micro board<br>
 Arduino Uno board</td>
 </tr>
 <tr>
@@ -51,12 +51,13 @@ Arduino Uno board</td>
 </tr>
 <tr>
 <td>Batteries</td>
-<td>BHC-CR123A battery holder
-BC-0401 AAA battery holder
-BC-0301 AA battery holder
-BC-2001 CR2032 battery holder
-BC-2002 CR2032 battery holder
-CH7410-2032 battery holder</td>
+<td>
+COMF BC-0301 AA battery holder<br>
+COMF BC-0401 AAA battery holder<br>
+COMF BC-2001 CR2032 battery holder<br>
+COMF BC-2002 CR2032 battery holder<br>
+COMF BHC-CR123A battery holder<br>
+Multicomp CH7410-2032 battery holder</td>
 </tr>
 <tr>
 <td>Cisco</td>
@@ -64,31 +65,32 @@ CH7410-2032 battery holder</td>
 </tr>
 <tr>
 <td>Clamps</td>
-<td>340-3.81-02
-DG142R-02
-DG142R-03
-DG390-5.0-02
-DG390-5.0-03
-DG390-5.0-04
-Connfly DS1037-10-01
-Connfly DS1037-10-02
-Connfly DS1037-10-03
+<td>
+DG142R-02<br>
+DG142R-03<br>
+DG340-3.81-02<br>
+DG390-5.0-02<br>
+DG390-5.0-03<br>
+DG390-5.0-04<br>
+Connfly DS1037-10-01<br>
+Connfly DS1037-10-02<br>
+Connfly DS1037-10-03<br>
 Wago 235-102</td>
 </tr>
 <tr>
 <td>Connectors</td>
-<td>CU09SAM microUSB connector
-DS1069-2R
-DS1069-3
-DS1138-02-06 SIM card holder
-HR911105 Ethernet connector</td>
+<td>CU09SAM microUSB connector<br>
+Connfly DS1069-2R<br>
+Connfly DS1069-3<br>
+Connfly DS1138-02-06 SIM card holder<br>
+Hanrun HR911105 Ethernet connector</td>
 </tr>
 <tr>
 <td>Crystal</td>
-<td>2012C2
-3215C2
-0532C4
-2016C4
+<td>2012C2<br>
+3215C2<br>
+0532C4<br>
+2016C4<br>
 2520C4</td>
 </tr>
 <tr>
@@ -97,33 +99,33 @@ HR911105 Ethernet connector</td>
 </tr>
 <tr>
 <td>Encoder</td>
-<td>Bourns PEC11
-Bourns PEC12
+<td>Bourns PEC11<br>
+Bourns PEC12<br>
 Bourns PEC16</td>
 </tr>
 <tr>
 <td>Epcos</td>
-<td>B32654
+<td>B32654 film capacitors<br>
 S236 NTC thermistor</td>
 </tr>
 <tr>
 <td>FTDI</td>
-<td>FT2232HL
-FT2232RQ
-FT232RQ
-FT4232HL
+<td>FT2232HL<br>
+FT2232RQ<br>
+FT232RQ<br>
+FT4232HL<br>
 FT4232HQ</td>
 </tr>
 <tr>
 <td>Fuse</td>
-<td>Littelfuse 0451
-Telefuse BxxxxT
+<td>Littelfuse 0451<br>
+Telefuse BxxxxT<br>
 SMD 5x20mm</td>
 </tr>
 <tr>
 <td>GPS/GSM/3G</td>
-<td>Simcom SIM800C
-Simcom SIM900D
+<td>Simcom SIM800C<br>
+Simcom SIM900D<br>
 Navia SL3333</td>
 </tr>
 <tr>
@@ -132,9 +134,9 @@ Navia SL3333</td>
 </tr>
 <tr>
 <td>Inductors</td>
-<td>Sumida CDRH127
-Sumida CDRH8D43
-Epcos SDR1006
+<td>Sumida CDRH127<br>
+Sumida CDRH8D43<br>
+Epcos SDR1006<br>
 SH6028</td>
 </tr>
 <tr>
@@ -148,13 +150,13 @@ IRF9358</td>
 </tr>
 <tr>
 <td>Jumper</td>
-<td>Solder jumper 2-pin
+<td>Solder jumper 2-pin<br>
 Solder jumper 3-pin</td>
 </tr>
 <tr>
 <td>LED</td>
-<td>0605 dual color
-0603
+<td>0605 dual color<br>
+0603<br>
 0805</td>
 </tr>
 <tr>
@@ -163,7 +165,7 @@ Solder jumper 3-pin</td>
 </tr>
 <tr>
 <td>Littelfuse</td>
-<td>SP0503BAHTG
+<td>SP0503BAHTG<br>
 SMAJxxCA</td>
 </tr>
 <tr>
@@ -172,13 +174,13 @@ SMAJxxCA</td>
 </tr>
 <tr>
 <td>Micrel</td>
-<td>MIC2019YM6
-MIC2026
+<td>MIC2019YM6<br>
+MIC2026<br>
 MIC29302BU</td>
 </tr>
 <tr>
 <td>Microchip</td>
-<td>MCP3421
+<td>MCP3421<br>
 MCP73831</td>
 </tr>
 <tr>
@@ -191,41 +193,41 @@ MCP73831</td>
 </tr>
 <tr>
 <td>Power Integrations</td>
-<td>LNK306G
-TNY254G
+<td>LNK306G<br>
+TNY254G<br>
 TNY275G</td>
 </tr>
 <tr>
 <td>Power Supplies</td>
-<td>HGP-MK-A12
+<td>HGP-MK-A12<br>
 Peak P10AU</td>
 </tr>
 <tr>
 <td>Premier Magnetics</td>
-<td>PNY-05015
+<td>PNY-05015<br>
 PMCU-5220</td>
 </tr>
 <tr>
 <td>Relays</td>
-<td>Omron G51A4EU
-Omron G6D1A
-Omron G6M1A
-TRC Type A
-Tyco PE
-Tyco RT114
+<td>Omron G51A4EU<br>
+Omron G6D1A<br>
+Omron G6M1A<br>
+TRC Type A<br>
+Tyco PE<br>
+Tyco RT114<br>
 Tyco RT314</td>
 </tr>
 <tr>
 <td>Semtech</td>
-<td>SX1272
-SX1276
+<td>SX1272<br>
+SX1276<br>
 SM712 TVS diodes</td>
 </tr>
 <tr>
 <td>Sensors</td>
-<td>Sensirion SHT21
-ST LPS331AP
-ST LSM6DS3
+<td>Sensirion SHT21<br>
+ST LPS331AP<br>
+ST LSM6DS3<br>
 PIR</td>
 </tr>
 <tr>
@@ -238,70 +240,70 @@ PIR</td>
 </tr>
 <tr>
 <td> ST</td>
-<td>L6920
-ST1S10PHR
-ST2378
-STM32F030F4P
-STM32F051C
-STM32F091CC
-STM32F401
-STM32L151CCU6
-STMPS2141STR
+<td>L6920<br>
+ST1S10PHR<br>
+ST2378<br>
+STM32F030F4P<br>
+STM32F051C<br>
+STM32F091CC<br>
+STM32F401<br>
+STM32L151CCU6<br>
+STMPS2141STR<br>
 TSV611A</td>
 </tr>
 <tr>
 <td>Starterkit</td>
-<td>SK-ATSAMA5D3-SODIMM
+<td>SK-ATSAMA5D3-SODIMM<br>
 SK-IMX6x-SODIMM</td>
 </tr>
 <tr>
 <td>Switches</td>
-<td>DTSL-61R-B (TD-21UB)
-FSMSM
-SWT-5
+<td>DTSL-61R-B (TD-21UB)<br>
+FSMSM<br>
+SWT-5<br>
 TSS-TD26-EA</td>
 </tr>
 <tr>
 <td>TI</td>
-<td>ADS1018DGS
-ADS1100
-BQ24400
-CC1310RGZ
-CC2640RSM
-CC2650RGZ
-CC430F5137
-DAC7571
-INA193
-ISO15DW
-ISO35DW
-ISO7521
-LM3414
-LM5008
-LM5010HM
-OPT3001
-PGA116
-REF3025
-SN74AUP1G14DCK
-SN74LVC1G04
-SN74LVC1G123DCT
-SN74LVC1G125DBV
-SN74LVC1G125DCK
-SN74LVC2G04DCK
-TL2575HV-*KV
-TPS22929D
-TPS2375D
-TPS54040
-TPS563200
-TPS61020
-TPS61221
-TPS62120DCN
-TPS62172
-TPS62730
-TS5A23157DGS
-TXB0102DCU
-TXB0104PW
-TXB0104RUT
-TXB0108PW
+<td>ADS1018DGS<br>
+ADS1100<br>
+BQ24400<br>
+CC1310RGZ<br>
+CC2640RSM<br>
+CC2650RGZ<br>
+CC430F5137<br>
+DAC7571<br>
+INA193<br>
+ISO15DW<br>
+ISO35DW<br>
+ISO7521<br>
+LM3414<br>
+LM5008<br>
+LM5010HM<br>
+OPT3001<br>
+PGA116<br>
+REF3025<br>
+SN74AUP1G14DCK<br>
+SN74LVC1G04<br>
+SN74LVC1G123DCT<br>
+SN74LVC1G125DBV<br>
+SN74LVC1G125DCK<br>
+SN74LVC2G04DCK<br>
+TL2575HV-*KV<br>
+TPS22929D<br>
+TPS2375D<br>
+TPS54040<br>
+TPS563200<br>
+TPS61020<br>
+TPS61221<br>
+TPS62120DCN<br>
+TPS62172<br>
+TPS62730<br>
+TS5A23157DGS<br>
+TXB0102DCU<br>
+TXB0104PW<br>
+TXB0104RUT<br>
+TXB0108PW<br>
 XTR116</td>
 </tr>
 <tr>
@@ -310,13 +312,13 @@ XTR116</td>
 </tr>
 <tr>
 <td>Unwired Devices</td>
-<td>Unwired One through-hole
-Unwired One SMD
-Unwired One MT7688AN
-2.54mm adapter for Unwired One
-Unwired Mesh 868 SMD
-Unwired Mesh 868 through-hole
-Unwired Mesh 868 right angle
+<td>Unwired One through-hole<br>
+Unwired One SMD<br>
+Unwired One MT7688AN<br>
+2.54mm adapter for Unwired One<br>
+Unwired Mesh 868 SMD<br>
+Unwired Mesh 868 through-hole<br>
+Unwired Mesh 868 right angle<br>
 Unwired Mesh 2450 SMD</td>
 </tr>
 </tbody>
