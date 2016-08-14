@@ -162,8 +162,8 @@ Solder jumper 3-pin</td>
 <td>
 0603<br>
 0605 dual color<br>
-0805</td>
-1206 bottom emitting</td>
+0805</br>
+1206 bottom emitting</br>
 3528</td>
 </tr>
 <tr>
