@@ -415,3 +415,22 @@ TL431ADBZ
 <td>TRC41654ANL Ethernet transformer</td>
 </tr>
 
+<tr>
+<td>Unwired Devices</td>
+<td>2.54mm shield for Unwired One<br>
+Unwired One(THD 1.27mm connectors)<br>
+Unwired One(SMD 1.27mm connectors)<br>
+Unwired Mesh / Range module, side-mounted<br>
+Unwired Mesh / Range module, surface mounted<br>
+Unwired Mesh / Range module, through hole mounted<br>
+Unwired Mesh 2450 MHz module, surface mounted<br>
+Unwired Mesh / Range, model 2, vertically mounted, SMD connector<br>
+Unwired Mesh / Range, model 2, vertically mounted, THD connector<br>
+Unwired Mesh / Range, model 2, horizontally mounted, THD connector, removable<br>
+Unwired Mesh / Range, model 2, horizontally mounted, THD connector, soldered<br>
+Unwired Mesh / Range, model 2 PCB connector<br>
+UNWD interface module, SMD connector<br>
+UNWD interface module connector<br>
+Power module connector<br>
+</td>
+</tr>
